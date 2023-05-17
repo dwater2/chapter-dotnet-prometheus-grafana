@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "B2um7TGV5ssNawCIigaPei5Q2Xxgc57lfbMbYLxyDE8K7x4LPJH3X7BC6rsyQ5JRYXpZ2OfioPWecePFkp6RHA==",
+  "success": true,
+  "projectFilePath": "C:\\Labs\\DotNet\\Prometheus\\Aplicacao\\Aplicacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dwate\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
+    "C:\\Users\\dwate\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\dwate\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.9\\microsoft.extensions.configuration.binder.3.1.9.nupkg.sha512",
+    "C:\\Users\\dwate\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.9\\microsoft.extensions.dependencyinjection.3.1.9.nupkg.sha512",
+    "C:\\Users\\dwate\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\dwate\\.nuget\\packages\\microsoft.extensions.http\\3.1.9\\microsoft.extensions.http.3.1.9.nupkg.sha512",
+    "C:\\Users\\dwate\\.nuget\\packages\\microsoft.extensions.logging\\3.1.9\\microsoft.extensions.logging.3.1.9.nupkg.sha512",
+    "C:\\Users\\dwate\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\dwate\\.nuget\\packages\\microsoft.extensions.options\\3.1.9\\microsoft.extensions.options.3.1.9.nupkg.sha512",
+    "C:\\Users\\dwate\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "C:\\Users\\dwate\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
+    "C:\\Users\\dwate\\.nuget\\packages\\prometheus-net\\5.0.2\\prometheus-net.5.0.2.nupkg.sha512",
+    "C:\\Users\\dwate\\.nuget\\packages\\prometheus-net.aspnetcore\\5.0.2\\prometheus-net.aspnetcore.5.0.2.nupkg.sha512",
+    "C:\\Users\\dwate\\.nuget\\packages\\prometheus-net.dotnetruntime\\4.4.0\\prometheus-net.dotnetruntime.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

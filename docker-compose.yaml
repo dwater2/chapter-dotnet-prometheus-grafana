@@ -1,0 +1,28 @@
+version: '3.8'
+services:
+  website:
+    image: dwater2/dotnet-webs:latest
+    ports:
+      - "8080:80"
+    networks:
+      - website
+
+  prometheus:
+    image: prom/prometheus:v2.24.1
+    volumes:
+      - ./prometheus.yaml:/etc/prometheus/prometheus.yml
+    ports:
+      - "9090:9090"
+    networks:
+      - website
+
+  grafana:
+    image: grafana/grafana:7.2.1
+    ports:
+      - "3000:3000"
+    networks:
+      - website
+
+networks:
+  website:
+    driver: bridge
