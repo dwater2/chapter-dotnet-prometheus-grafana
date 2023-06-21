@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: api
+  labels:
+    app: api
+spec:
+  selector:
+    matchLabels:
+      app: api    
+  replicas: 10
+  template:
+    metadata:
+      labels:
+        app: "api"
+    spec:
+      containers:
+        - name: api
+          image: "dwater2/dotnet-webs:latest"
